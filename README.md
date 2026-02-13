@@ -1,2 +1,7 @@
-# resume_analyser_ai
-Performs analysis on the resume with the help of AI.. gives out a score and gives out suggestions to improve the resume.
+# Resume_Analyser_AI
+Performs analysis on the resume on the basis of the job description with the help of Gemini 2.5 flash.. 
+The result contains a score by 100
+Contains missing skills
+Suggestions to improve the resume
+Summary.
+
